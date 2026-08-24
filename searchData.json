@@ -1,0 +1,62 @@
+[
+  {
+    "component": "holiday-calendar",
+    "componentPrimaryName": "",
+    "templateID": 804401,
+    "entities": [
+      {
+        "word": "United Kingdom",
+        "wgID": 1003,
+        "wgName": "COUNTRIES",
+        "collectionName": "COUNTRIES",
+        "collectionType": "HD_LOCATION",
+        "wgUGC": 0,
+        "templateID": 804401,
+        "entityInfo": {
+          "geo": {
+            "tz": "Europe/London",
+            "lat": 54.75844,
+            "long": -2.69531,
+            "country": "United Kingdom",
+            "primeCity": {
+              "QID": "Q84",
+              "lat": 51.50853,
+              "long": -0.12574,
+              "label": "London",
+              "geonameID": 2643743
+            },
+            "countryCode": "GB"
+          },
+          "hdLabel": "United Kingdom",
+          "labelSource": "wiki"
+        },
+        "compInfo": null,
+        "entityType": "LOCATION",
+        "sourceID": "2635167",
+        "IDs": { "wikiQID": "Q145", "geonameID": 2635167 },
+        "componentName": "holiday-calendar",
+        "componentID": 0,
+        "info": { "Type": "countries", "level": 1, "template": "countries" },
+        "description": "country in Western Europe",
+        "qualifierReqd": 0,
+        "priority": 2,
+        "isEnabled": 1,
+        "keywordRequired": 0,
+        "primaryText": "",
+        "relevanceScore": 99.9,
+        "sourceValue": 66488991,
+        "index": 0,
+        "wgInfo": { "Type": "countries", "level": 1, "template": "countries" },
+        "primaryID": "2635167"
+      }
+    ],
+    "query": "Is December 25 a holiday in UK 2026",
+    "componentEnabled": true,
+    "keyword": [{ "word": "holiday", "description": "" }],
+    "disambiguationType": 1,
+    "time": "2026-08-24T19:09:52.000Z",
+    "quickView": 3,
+    "queryRegex": "is\\s+.*\\s+(a\\s+)?holiday\\s+(in|of)\\s+HD_LOCATION.*",
+    "componentType": "internal"
+  }
+]
