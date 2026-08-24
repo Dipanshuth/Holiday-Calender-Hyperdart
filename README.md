@@ -233,9 +233,6 @@ Query cases exercised during development:
 14. API/network failure
 15. Empty API response
 
-## Demo
-
-_Add your demo video URL here._
 
 ## Hackathon Submission
 
